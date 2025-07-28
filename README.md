@@ -48,6 +48,5 @@ In this notebook (**2_house_price_predict.ipynb**), we built a regression model 
 
 This is just the beginning. More topics will be added soon, covering everything from model deployment to MLOps pipelines.
 
-Delete next time
 
 Stay tuned!
